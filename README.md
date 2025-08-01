@@ -1,6 +1,8 @@
 #CURRENT VERSION FOR QBOX
-- https://github.com/TheErrantVenture/gtzombies_qbx/releases/tag/V.1.0.4a
-
+- https://github.com/TheErrantVenture/gtzombies_qbx-V1.0.4a
+- Or click releases on the right of this page.  If you want to see the files / folders, since I apparently suck at forks, then click the above link and it'll have the folders / files broken out.
+- Future to do maybe(s):
+  - Remove big ass green boxes for immersion.
 # GT Zombies Qbox Version
 - Converted on 8.1.25 by TheErrantVenture to QBox
 - All credits for the original ESX / QBCore version goes to D3IM4N & @WeRBorg
