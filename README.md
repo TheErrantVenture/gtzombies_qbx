@@ -1,3 +1,5 @@
+#CURRENT VERSION FOR QBOX
+- https://github.com/TheErrantVenture/gtzombies_qbx/releases/tag/V.1.0.4a
 
 # GT Zombies Qbox Version
 - Converted on 8.1.25 by TheErrantVenture to QBox
